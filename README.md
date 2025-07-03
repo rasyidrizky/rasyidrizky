@@ -1,6 +1,6 @@
 <!-- Title and subtitle styled as headers -->
 <div align="center">
-  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0.2em;">Rasyid's wall of texts</p>
+  <p style="font-size: 4em; font-weight: bold; margin-bottom: 0.2em;">Rasyid's wall of texts</p>
   <p style="font-size: 1.1em;"><strong>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</strong></p>
 </div>
 
