@@ -1,16 +1,12 @@
 <h1 align="center">Rasyid's wall of texts</h1>
 <h3 align="center">A student majoring in Information Systems and Technology at Institut Teknologi Bandung</h3>
 
----
-
 <h2 align="center">Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrizky&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-
----
 
 <h2 align="center">Projects</h2>
 
@@ -19,8 +15,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izhrr&repo=Nangor-Valley&theme=react&hide_border=true" />
   </a>
   <br>
-  <i>Tugas Besar IF2010 - Pemrograman Berorientasi Objek</i>
-  <i>A 2D farming simulator game using Java programming language</i>
+  <i>Tugas Besar IF2010 - Pemrograman Berorientasi Objek</i><br>
+  <i>A 2D farming simulator game using Java programming language.</i>
 </p>
 
 <p align="center">
@@ -28,11 +24,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=react&hide_border=true" />
   </a>
   <br>
-  <i>Tugas IF2050	- Dasar Rekayasa Perangkat Lunak</i>
+  <i>Tugas IF2050 – Dasar Rekayasa Perangkat Lunak</i><br>
   <i>An investment management system made with Java.</i>
 </p>
-
----
 
 <h2 align="center">Practicums</h2>
 
@@ -41,10 +35,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=Praktikum-STEI-K-STI-ITB-2023&theme=react&hide_border=true" />
   </a>
   <br>
-  <i>Praktikum jurusan Sistem dan Teknologi Informasi (STI) dari Sekolah Teknik Elektro dan Informatika - Komputasi (STEI-K) ITB</i>
+  <i>Praktikum jurusan Sistem dan Teknologi Informasi (STI) dari Sekolah Teknik Elektro dan Informatika - Komputasi (STEI-K) ITB.</i>
 </p>
-
----
 
 <h2 align="center">Connect with me</h2>
 
@@ -59,8 +51,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
-
----
 
 <h2 align="center">Languages and Tools</h2>
 
