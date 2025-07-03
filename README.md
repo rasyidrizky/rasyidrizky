@@ -1,6 +1,6 @@
-<!-- Title and subtitle wrapped to avoid GitHub default line -->
+<!-- Title and subtitle wrapped to avoid GitHub default <h1> underline -->
 <div align="center">
-  <h1>Rasyid's wall of texts</h1>
+  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0.2em;">Rasyid's wall of texts</p>
   <p><strong>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</strong></p>
 </div>
 
