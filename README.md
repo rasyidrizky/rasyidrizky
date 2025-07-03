@@ -1,5 +1,7 @@
-<h1 align="center">Rasyid's wall of texts</h1>
-<h3 align="center">A student majoring in Information Systems and Technology at Institut Teknologi Bandung</h3>
+<div align="center">
+  <h1>Rasyid's wall of texts</h1>
+  <h3>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</h3>
+</div>
 
 <hr>
 
