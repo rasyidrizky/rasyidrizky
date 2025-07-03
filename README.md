@@ -7,7 +7,7 @@
 <hr>
 
 <!-- Statistics header -->
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1.2em 0 0.5em;"><strong>Statistics</strong></p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Statistics</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
@@ -17,13 +17,15 @@
 <hr>
 
 <!-- Projects header -->
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1.2em 0 0.5em;">Projects</p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Projects</strong></p>
 
 <p align="center">
   <a href="https://github.com/Izhrr/Nangor-Valley">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izhrr&repo=Nangor-Valley&theme=react&hide_border=true&cache_seconds=1" />
   </a>
   <br>
+  <i>Tugas Besar IF2010 - Pemrograman Berorientasi Objek</i><br>
+  <i>A 2D farming simulator game using Java programming language.</i>
 </p>
 
 <p align="center">
@@ -31,24 +33,27 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=react&hide_border=true&cache_seconds=1" />
   </a>
   <br>
+  <i>Tugas IF2050 – Dasar Rekayasa Perangkat Lunak</i><br>
+  <i>An investment management system made with Java.</i>
 </p>
 
 <hr>
 
 <!-- Practicums header -->
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1.2em 0 0.5em;">Practicums</p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Practicums</strong></p>
 
 <p align="center">
   <a href="https://github.com/rasyidrizky/Praktikum-STEI-K-STI-ITB-2023">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=Praktikum-STEI-K-STI-ITB-2023&theme=react&hide_border=true&cache_seconds=1" />
   </a>
   <br>
+  <i>Praktikum jurusan Sistem dan Teknologi Informasi (STI) dari Sekolah Teknik Elektro dan Informatika - Komputasi (STEI-K) ITB.</i>
 </p>
 
 <hr>
 
 <!-- Connect header -->
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1.2em 0 0.5em;">Socials</p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Socials</strong></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rasyid-rizky-susilo-nurdwiputro-60b230318" target="blank">
@@ -65,7 +70,7 @@
 <hr>
 
 <!-- Languages and Tools header -->
-<p align="center" style="font-size: 1.8em; font-weight: bold; margin: 1.2em 0 0.5em;">Languages and Tools</p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Languages and Tools</strong></p>
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
