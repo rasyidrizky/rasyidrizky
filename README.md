@@ -1,13 +1,13 @@
-<!-- Title and subtitle styled as headers -->
+<!-- Title and subtitle styled using headers -->
 <div align="center">
-  <p style="font-size: 4em; font-weight: bold; margin-bottom: 0.2em;">Rasyid's wall of texts</p>
-  <p style="font-size: 1.1em;"><strong>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</strong></p>
+  <h1 style="font-size: 4em; margin-bottom: 0.2em;">Rasyid's wall of texts</h1>
+  <p><strong>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</strong></p>
 </div>
 
 <hr>
 
 <!-- Statistics header -->
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Statistics</p>
+<h2 align="center">Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
@@ -17,7 +17,7 @@
 <hr>
 
 <!-- Projects header -->
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Projects</p>
+<h2 align="center">Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Izhrr/Nangor-Valley">
@@ -40,7 +40,7 @@
 <hr>
 
 <!-- Practicums header -->
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Practicums</p>
+<h2 align="center">Practicums</h2>
 
 <p align="center">
   <a href="https://github.com/rasyidrizky/Praktikum-STEI-K-STI-ITB-2023">
@@ -53,7 +53,7 @@
 <hr>
 
 <!-- Connect header -->
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Socials</p>
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/rasyid-rizky-susilo-nurdwiputro-60b230318" target="blank">
@@ -70,7 +70,7 @@
 <hr>
 
 <!-- Languages and Tools header -->
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Languages and Tools</p>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
