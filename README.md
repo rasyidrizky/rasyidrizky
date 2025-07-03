@@ -1,12 +1,16 @@
 <h1 align="center">Rasyid's wall of texts</h1>
 <h3 align="center">A student majoring in Information Systems and Technology at Institut Teknologi Bandung</h3>
 
+<hr>
+
 <h2 align="center">Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrizky&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180"/>
 </p>
+
+<hr>
 
 <h2 align="center">Projects</h2>
 
@@ -28,6 +32,8 @@
   <i>An investment management system made with Java.</i>
 </p>
 
+<hr>
+
 <h2 align="center">Practicums</h2>
 
 <p align="center">
@@ -37,6 +43,8 @@
   <br>
   <i>Praktikum jurusan Sistem dan Teknologi Informasi (STI) dari Sekolah Teknik Elektro dan Informatika - Komputasi (STEI-K) ITB.</i>
 </p>
+
+<hr>
 
 <h2 align="center">Connect with me</h2>
 
@@ -51,6 +59,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
+
+<hr>
 
 <h2 align="center">Languages and Tools</h2>
 
