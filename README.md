@@ -65,7 +65,7 @@
 <hr>
 
 <!-- Languages and Tools header -->
-<h2 align="center">Languages and Tools</h2>
+<p style="font-size: 8em; align="center"><strong>Languages and Tools</p>
 
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
