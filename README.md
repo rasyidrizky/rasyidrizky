@@ -1,13 +1,41 @@
 <!-- Title and subtitle styled using headers -->
 <div align="center">
-  <h1 style="font-size: 4em; margin-bottom: 0.2em;">Rasyid's wall of texts</h1>
-  <p><strong>A student majoring in Information Systems and Technology at Institut Teknologi Bandung</strong></p>
+  <h1 style="font-size: 3.5em; margin-bottom: 0.1em;">Hi there, I'm Rasyid 👋</h1>
+  <p>Information Systems and Technology Undergraduate at <b>Institut Teknologi Bandung</b></p>
 </div>
 
 <hr>
 
+<!-- Languages and Tools header (Shields.io) -->
+<p align="center" style="font-size: 1.8em; margin: 0.8em 0 0.5em;"><strong>Tech Stack & Tools</strong></p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <br>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+<hr>
+
 <!-- Statistics header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Statistics</strong></p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>GitHub Statistics</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
@@ -17,21 +45,34 @@
 <hr>
 
 <!-- Projects header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Projects</strong></p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Highlighted Projects</strong></p>
 
-<p align="center">
-  <a href="https://github.com/Izhrr/Nangor-Valley">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izhrr&repo=Nangor-Valley&theme=react&hide_border=true&cache_seconds=1" />
-  </a>
-  <br>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rinmdfa25/IF2050-2025-K3I-Finvestor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=react&hide_border=true&cache_seconds=1" />
-  </a>
-  <br>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dzakyatha/eventguard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzakyatha&repo=eventguard&theme=react&hide_border=true&cache_seconds=1" alt="EventGuard" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rasyidrizky/PAWLearn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=PAWLearn&theme=react&hide_border=true&cache_seconds=1" alt="PAWLearn" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rinmdfa25/IF2050-2025-K3I-Finvestor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=react&hide_border=true&cache_seconds=1" alt="Finvestor" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/StefanyJosefina/18223114_18223116_18223139_Tugas2_II4021">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=StefanyJosefina&repo=18223114_18223116_18223139_Tugas2_II4021&theme=react&hide_border=true&cache_seconds=1" alt="Cryptography Task" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -40,43 +81,23 @@
 
 <p align="center">
   <a href="https://github.com/rasyidrizky/Praktikum-STEI-K-STI-ITB-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=Praktikum-STEI-K-STI-ITB-2023&theme=react&hide_border=true&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=Praktikum-STEI-K-STI-ITB-2023&theme=react&hide_border=true&cache_seconds=1" alt="Praktikum" />
   </a>
-  <br>
 </p>
 
 <hr>
 
 <!-- Connect header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Socials</strong></p>
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Let's Connect!</strong></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rasyid-rizky-susilo-nurdwiputro-60b230318" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/rasyid_rsn" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@rasyid.rsn" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-</p>
-
-<hr>
-
-<!-- Languages and Tools header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Languages and Tools</strong></p>
-
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
