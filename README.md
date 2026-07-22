@@ -48,7 +48,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidrizky&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180"/>
+  <img
+    width="390"
+    src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg"
+    alt="Language Activity"
+  />
 </p>
 
 <hr>
