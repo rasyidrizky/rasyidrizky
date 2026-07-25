@@ -1,51 +1,107 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: lowlighter/metrics@latest
+      ###########################################################
+      # General
+      ###########################################################
+
+      - name: General Metrics
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-      
+
           user: rasyidrizky
-      
+          filename: metrics/general.svg
+
           template: classic
-      
-          base: header, activity, community, repositories, metadata
-      
+
           config_timezone: Asia/Jakarta
 
+          base: header, activity, community, repositories, metadata
+
+      ###########################################################
+      # Languages
+      ###########################################################
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: rasyidrizky
+          filename: metrics/languages.svg
+
+          template: classic
+
+          base: ""
+
           plugin_languages: yes
-      
+
           plugin_languages_limit: 8
-      
+          plugin_languages_threshold: 0%
+
           plugin_languages_sections: most-used
-      
+
           plugin_languages_categories: programming
-      
+
+          plugin_languages_colors: github
+
           plugin_languages_details: percentage
+
+      ###########################################################
+      # Achievements
+      ###########################################################
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: rasyidrizky
+          filename: metrics/achievements.svg
+
+          template: classic
+
+          base: ""
 
           plugin_achievements: yes
 
-          plugin_achievements_threshold: C
-      
           plugin_achievements_display: compact
-      
+
+          plugin_achievements_threshold: C
+
           plugin_achievements_secrets: no
 
+      ###########################################################
+      # Featured repositories
+      ###########################################################
+
+      - name: Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: rasyidrizky
+          filename: metrics/repositories.svg
+
+          template: classic
+
+          base: ""
+
           plugin_repositories: yes
-      
+
           plugin_repositories_featured: PAWLearn,Praktikum-STEI-K-STI-ITB-2023
-      
+
           plugin_repositories_featured_order: pinned
