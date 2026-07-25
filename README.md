@@ -25,9 +25,9 @@
 <!-- GitHub Overview -->
 <p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>GitHub Statistics</strong></p>
 
-[<img align="left" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/general.svg">](#)
-[<img align="right" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg">](#)
-[<img align="right" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/calendar.svg">](#)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/general.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/calendar.svg">](#)
 
 <!-- Clears the floating layout -->
 [<img width="100%" height="1" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/placeholder.svg">](#)
