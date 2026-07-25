@@ -25,12 +25,10 @@
 <!-- About Me -->
 <p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>About Me</strong></p>
 
-<p align="left"">
-  🎓 Studying Information Systems & Technology at ITB, with coursework spanning cryptography, network security, and software engineering.<br><br>
-  🔐 Interested in blockchain, cryptography, and full stack development — I enjoy projects that mix academic theory with hands-on implementation.<br><br>
-  💻 Comfortable across the stack, from languages and frameworks to databases, deployment, and tooling.<br><br>
-  🌱 Always learning, always building something new.
-</p>
+- 🎓 Studying Information Systems & Technology at ITB, with coursework spanning cryptography, network security, and software engineering.
+- 🔐 Interested in blockchain, cryptography, and full stack development — I enjoy projects that mix academic theory with hands-on implementation.
+- 💻 Comfortable across the stack, from languages and frameworks to databases, deployment, and tooling.
+- 🌱 Always learning, always building something new.
 
 <hr>
 
