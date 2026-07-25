@@ -4,6 +4,41 @@
   <p>Information Systems and Technology Undergraduate at <b>Institut Teknologi Bandung</b></p>
 </div>
 
+<!-- Connect header -->
+<p align="center">
+  <a href="https://linkedin.com/in/rasyidrsn" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/rasyid_rsn" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@rasyid.rsn" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:rasyid.rsn@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<hr>
+
+<!-- GitHub Overview -->
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>GitHub Statistics</strong></p>
+
+[<img align="left" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/general.svg">](#)
+[<img align="right" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg">](#)
+[<img align="right" width="450" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/calendar.svg">](#)
+
+<!-- Clears the floating layout -->
+[<img width="100%" height="1" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/placeholder.svg">](#)
+
+<hr>
+
+<!-- Projects header -->
+<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Highlighted Projects</strong></p>
+
+[<img width="50%" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/repositories.svg">](#)
+
 <hr>
 
 <!-- Languages and Tools header (Shields.io) -->
@@ -57,78 +92,3 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 <hr>
-
-<!-- Statistics header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>GitHub Statistics</strong></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyidrizky&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img
-    width="390"
-    src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg"
-    alt="Language Activity"
-  />
-</p>
-
-<hr>
-
-<!-- Projects header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Highlighted Projects</strong></p>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dzakyatha/eventguard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzakyatha&repo=eventguard&theme=react&hide_border=true&cache_seconds=1" alt="EventGuard" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rasyidrizky/PAWLearn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=PAWLearn&theme=react&hide_border=true&cache_seconds=1" alt="PAWLearn" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/rinmdfa25/IF2050-2025-K3I-Finvestor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinmdfa25&repo=IF2050-2025-K3I-Finvestor&theme=react&hide_border=true&cache_seconds=1" alt="Finvestor" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/StefanyJosefina/18223114_18223116_18223139_Tugas2_II4021">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=StefanyJosefina&repo=18223114_18223116_18223139_Tugas2_II4021&theme=react&hide_border=true&cache_seconds=1" alt="Cryptography Task" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- Practicums header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Practicums</strong></p>
-
-<p align="center">
-  <a href="https://github.com/rasyidrizky/Praktikum-STEI-K-STI-ITB-2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rasyidrizky&repo=Praktikum-STEI-K-STI-ITB-2023&theme=react&hide_border=true&cache_seconds=1" alt="Praktikum" />
-  </a>
-</p>
-
-<hr>
-
-<!-- Connect header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Let's Connect!</strong></p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rasyidrsn" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/rasyid_rsn" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@rasyid.rsn" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:rasyid.rsn@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
