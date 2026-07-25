@@ -1,7 +1,25 @@
 <!-- Title and subtitle styled using headers -->
 <div align="center">
-  <h1 style="font-size: 3.5em; margin-bottom: 0.1em;">Hi there, I'm Rasyid 👋</h1>
-  <p>Information Systems and Technology Undergraduate at <b>Institut Teknologi Bandung</b></p>
+  <h1>
+    <img
+      src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/assets/robin.gif"
+      height="42"
+      style="vertical-align: middle; margin-right: 12px;"
+      alt="Robin"
+    />
+    Hi there, I'm Rasyid 👋
+    <img
+      src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/assets/chrom.gif"
+      height="42"
+      style="vertical-align: middle; margin-left: 12px;"
+      alt="Alear"
+    />
+  </h1>
+
+  <p>
+    Information Systems and Technology Undergraduate at
+    <b>Institut Teknologi Bandung</b>
+  </p>
 </div>
 
 <!-- Connect header -->
