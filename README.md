@@ -41,7 +41,7 @@
 <hr>
 
 <!-- About Me -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>About Me</strong></p>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=About+Me" />
 
 - 🎓 Studying Information Systems & Technology at ITB, with coursework spanning cryptography, network security, and software engineering.
 - 🔐 Interested in blockchain, cryptography, and full stack development — I enjoy projects that mix academic theory with hands-on implementation.
@@ -51,7 +51,7 @@
 <hr>
 
 <!-- GitHub Overview -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>GitHub Statistics</strong></p>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=GitHub+Statistics" />
 
 [<img align="left" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/general.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg">](#)
@@ -65,14 +65,15 @@
 <hr>
 
 <!-- Projects header -->
-<p align="center" style="font-size: 1.8em; margin: 1.2em 0 0.5em;"><strong>Highlighted Projects</strong></p>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=Highlighted+Projects" />
 
 [<img width="50%" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/repositories.svg">](#)
 
 <hr>
 
 <!-- Languages and Tools header (Shields.io) -->
-<p align="center" style="font-size: 1.8em; margin: 0.8em 0 0.5em;"><strong>Tech Stack & Tools</strong></p>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerText=Tech+Stack+and+Tools&height=200" />
+
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
