@@ -42,6 +42,8 @@
 <!-- Clears the floating layout -->
 [<img width="100%" height="1" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/placeholder.svg">](#)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyidrizky&custom_title=Contribution%20Graph&hide_border=true&theme=xcode&height=300&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <hr>
 
 <!-- Projects header -->
