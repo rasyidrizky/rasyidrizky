@@ -54,6 +54,7 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=GitHub+Statistics" />
 
 [<img align="left" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/general.svg">](#)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/people.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/languages.svg">](#)
 [<img align="right" width="390" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/calendar.svg">](#)
 
