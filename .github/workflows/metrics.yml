@@ -58,7 +58,7 @@ jobs:
           template: classic
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: rasyidrizky/Praktikum-STEI-K-STI-ITB-2023, dzakyatha/eventguard, rasyidrizky/PAWLearn, kifu/18223114_18223116_18223139_Tugas4_II4021, Izhrr/Nangor-Valley, 
+          plugin_repositories_featured: rasyidrizky/Machine-Learning, dzakyatha/eventguard, rasyidrizky/PAWLearn, rasyidrizky/Bin-Packing-Problem, Izhrr/Nangor-Valley, 
           plugin_repositories_order: featured, pinned, starred, random
 
       # Commit Calendar
