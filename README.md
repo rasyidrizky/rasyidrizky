@@ -67,7 +67,9 @@
 <!-- Projects header -->
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=Highlighted+Projects" />
 
-[<img width="50%" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/repositories.svg">](#)
+<div align="center">
+  <img width="50%" src="https://raw.githubusercontent.com/rasyidrizky/rasyidrizky/main/metrics/repositories.svg">
+</div>
 
 <hr>
 
